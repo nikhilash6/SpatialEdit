@@ -209,7 +209,7 @@ Code in this repository is built upon several public repositories. Thanks for th
 
 ## 🎬 Demo
 
-The following demo showcases our method on fine-grained spatial editing and video generation from spatially controlled endpoints.
+The following demo showcases our method on fine-grained spatial editing from spatially controlled endpoints.
 
 <p align="center">
   <img src="assets/demo.gif" width="88%" />
