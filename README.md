@@ -205,7 +205,7 @@ Update the script paths and evaluation backend first:
 
 ## ❤️ Acknowledgement
 
-Code in this repository is built upon several public repositories. Thanks for the wonderful work [recamaster](https://github.com/576218404/RecamMaster) and [TexVerse](https://github.com/ffiirree/TexVerse) ! !
+Code in this repository is built upon several public repositories. Thanks for the wonderful work [recamaster](https://github.com/KlingAIResearch/ReCamMaster) and [TexVerse](https://github.com/yiboz2001/TexVerse) ! !
 
 ## 🎬 Demo
 
