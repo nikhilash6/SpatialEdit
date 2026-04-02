@@ -203,10 +203,6 @@ Update the script paths and evaluation backend first:
 - The benchmark scripts assume access to external benchmark metadata, source images, and model checkpoints.
 - The repo already includes example evaluation utilities under `SpatialEdit-Bench/camera_level_eval` and `SpatialEdit-Bench/object_level_eval`.
 
-## ❤️ Acknowledgement
-
-Code in this repository is built upon several public repositories. Thanks for the wonderful work [recamaster](https://github.com/KlingAIResearch/ReCamMaster) and [TexVerse](https://github.com/yiboz2001/TexVerse) ! !
-
 ## 🎬 Demo
 
 The following demo showcases our method on fine-grained spatial editing from spatially controlled endpoints.
@@ -215,4 +211,7 @@ The following demo showcases our method on fine-grained spatial editing from spa
   <img src="assets/demo.gif" width="88%" />
 </p>
 
-Our data construction pipeline and benchmark experiments are built on top of the image editing model from [JoyAI-Image](https://github.com/jd-opensource/JoyAI-Image).
+## ❤️ Acknowledgement
+
+Code in this repository is built upon several public repositories. Thanks for the wonderful work [recamaster](https://github.com/KlingAIResearch/ReCamMaster) and [TexVerse](https://github.com/yiboz2001/TexVerse) ! !
+Our resource building process and benchmark experiments contribute to the image editing model of [JoyAI-Image](https://github.com/jd-opensource/JoyAI-Image).
