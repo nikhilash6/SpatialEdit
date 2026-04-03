@@ -207,9 +207,7 @@ Update the script paths and evaluation backend first:
 
 The following demo showcases our method on fine-grained spatial editing from spatially controlled endpoints.
 
-<p align="center">
-  <img src="assets/demo.gif" width="88%" />
-</p>
+https://github.com/EasonXiao-888/SpatialEdit/blob/main/assets/demo.mp4
 
 ## ❤️ Acknowledgement
 
