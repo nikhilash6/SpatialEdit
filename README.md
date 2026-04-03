@@ -20,7 +20,11 @@
 The following demo showcases our method on fine-grained spatial editing from spatially controlled endpoints.
 
 
-https://github.com/user-attachments/assets/1437ba94-1609-4e81-8876-8e6a60fb4906
+
+https://github.com/user-attachments/assets/b42c7a51-1220-4690-9fcb-5892672cb87d
+
+
+
 
 
 ## 📝 Abstract
