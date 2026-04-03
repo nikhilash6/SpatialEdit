@@ -45,6 +45,9 @@ docs/source/inference/examples/
 # VSCode
 .vscode/
 
+# video2gif
+assets/application/camera/video.gif
+
 # DS Store
 .DS_Store
 
