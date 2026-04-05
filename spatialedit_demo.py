@@ -28,12 +28,13 @@ seed_everything(42)
 
 # ---- 加载配置与模型 ----
 config_path = "configs/spatialedit_base_config.py"
-ckpt_path_PT = "your_base_path/SpatialEdit_CKPT/CKPT_PT"
-ckpt_path_CT = "your_base_path/SpatialEdit_CKPT/CKPT_CT/lora"
+ckpt_path_PT = "your_base_path/SpatialEdit_CKPT/CKPT_PT.pth"
+ckpt_path_CT = "your_base_path/SpatialEdit_CKPT/CKPT_CT_lora"
 
 config_class = load_config_class_from_pyfile(config_path)
 cfg = config_class()
 
+cfg.use_lora = False    # first load full param, then load lora and merge manually, to avoid some potential issue of peft loading
 cfg.training_mode = False
 cfg.use_fsdp_inference = False
 cfg.hsdp_shard_dim = 1

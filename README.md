@@ -10,21 +10,16 @@
 
 <p align="center">
   <a href="https://github.com/EasonXiao-888/SpatialEdit/blob/main/pdf/SpatialEditing.pdf"><img src='https://img.shields.io/badge/SpatialEdit-Paper-red?logo=bookstack&logoColor=red'></a>
-  <a href="https://huggingface.co/EasonXiao-888/SpatialEdit-500K"><img src="https://img.shields.io/badge/SpatialEdit500K-Data-yellow?logo=huggingface&logoColor=yellow"></a>
-  <a href="https://huggingface.co/EasonXiao-888/SpatialEdit"><img src="https://img.shields.io/badge/SpatialEdit16B-Model-blue?logo=huggingface&logoColor=yellow"></a>
-  <a href="https://huggingface.co/EasonXiao-888/SpatialEdit-Bench"><img src="https://img.shields.io/badge/SpatialEditBench-Data-green?logo=huggingface&logoColor=yellow"></a>
+  <a href="https://huggingface.co/datasets/EasonXiao-888/SpatialEdit-500K"><img src="https://img.shields.io/badge/SpatialEdit500K-Data-yellow?logo=huggingface&logoColor=yellow"></a>
+  <a href="https://huggingface.co/EasonXiao-888/SpatialEdit-16B"><img src="https://img.shields.io/badge/SpatialEdit16B-Model-blue?logo=huggingface&logoColor=yellow"></a>
+  <a href="https://huggingface.co/datasets/EasonXiao-888/SpatialEdit-Bench"><img src="https://img.shields.io/badge/SpatialEditBench-Data-green?logo=huggingface&logoColor=yellow"></a>
 </p>
 
 ## 🎬 Demo
 
 The following demo showcases our method on fine-grained spatial editing from spatially controlled endpoints.
 
-
-
 https://github.com/user-attachments/assets/b42c7a51-1220-4690-9fcb-5892672cb87d
-
-
-
 
 
 ## 📝 Abstract
@@ -41,9 +36,9 @@ Our contributions are three-fold:
 
 | Resource | Description | Link |
 | --- | --- | --- |
-| 🧪 Training Data | SpatialEdit-500K synthetic training set for scalable fine-grained spatial editing | 🤗[Hugging Face](https://huggingface.co/EasonXiao-888/SpatialEdit-500K) |
-| 🧠 Model Weights | SpatialEdit-16B checkpoints for image spatial editing | 🤗[Hugging Face](https://huggingface.co/EasonXiao-888/SpatialEdit) |
-| 🖼️ Benchmark Images | SpatialEdit-Bench benchmark images and evaluation assets | 🤗[Hugging Face](https://huggingface.co/EasonXiao-888/SpatialEdit-Bench) |
+| 🧪 Training Data | SpatialEdit-500K synthetic training set for scalable fine-grained spatial editing | 🤗[Hugging Face](https://huggingface.co/datasets/EasonXiao-888/SpatialEdit-500K) |
+| 🧠 Model Weights | SpatialEdit-16B checkpoints for image spatial editing | 🤗[Hugging Face](https://huggingface.co/EasonXiao-888/SpatialEdit-16B) |
+| 🖼️ Benchmark Images | SpatialEdit-Bench benchmark images and evaluation assets | 🤗[Hugging Face](https://huggingface.co/datasets/EasonXiao-888/SpatialEdit-Bench) |
 
 ## 🌍 Overview
 

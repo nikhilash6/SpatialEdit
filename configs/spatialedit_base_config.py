@@ -8,7 +8,7 @@ class PretrainT2I256P(ExpConfig):
     seed: int = 42
 
     # DIT
-    # dit_ckpt: str = "your_base_path/model"
+    dit_ckpt: str = "your_base_path/model"
     dit_arch_config: dict = field(default_factory=lambda: {
         "target": "src.models.mmdit.dit.Transformer3DModel",
         "params": {
