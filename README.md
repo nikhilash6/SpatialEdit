@@ -21,6 +21,52 @@ The following demo showcases our method on fine-grained spatial editing from spa
 
 https://github.com/user-attachments/assets/b42c7a51-1220-4690-9fcb-5892672cb87d
 
+## 🚀 Application Gallery
+
+### 🧊 3D Point Control
+
+<p align="center">
+  <img src="assets/application/3dpoint/01.gif" width="23%" />
+  <img src="assets/application/3dpoint/02.gif" width="23%" />
+  <img src="assets/application/3dpoint/11.gif" width="23%" />
+  <img src="assets/application/3dpoint/12.gif" width="23%" />
+</p>
+
+✨ The first and third examples show point clouds with only a single given viewpoint. The second and fourth examples are augmented by our model, which synthesizes richer spatial observations from the sparse input view.
+
+### 🎥 Conditional-frames Based Video Generation:
+
+✨ Given the first frame, our editing model first performs spatial editing to produce the final frame of the video. Subsequently, the video generation model synthesizes a coherent transition sequence, while preserving scene realism and thematic consistency.
+
+## 📷 Camera Trajectory Transformation
+
+<p align="center">
+  <img src="assets/application/camera/input.png" width="31%" />
+  <img src="assets/application/camera/output.png" width="31%" />
+  <img src="assets/application/camera/video.gif" width="31%" />
+</p>
+
+## 🚶 Object Moving
+
+<p align="center">
+  <img src="assets/application/moving/input.png" width="31%" />
+  <img src="assets/application/moving/output.png" width="31%" />
+  <img src="assets/application/moving/video.gif" width="31%" />
+</p>
+
+<p align="center">
+  <img src="assets/application/moving/input2.png" width="31%" />
+  <img src="assets/application/moving/output2.png" width="31%" />
+  <img src="assets/application/moving/video2.gif" width="31%" />
+</p>
+
+## 🔄 Object Rotation
+
+<p align="center">
+  <img src="assets/application/rotation/input.png" width="31%" />
+  <img src="assets/application/rotation/output.png" width="31%" />
+  <img src="assets/application/rotation/video.gif" width="31%" />
+</p>
 
 ## 📝 Abstract
 
@@ -65,47 +111,6 @@ Qualitative comparisons highlight the advantage of SpatialEdit on fine-grained s
 ![Visual Comparison 1](assets/visual_compare1.png)
 
 ![Visual Comparison 2](assets/visual_compare2.png)
-
-## 🚀 Application Gallery
-
-### 🧊 3D Point Control
-
-<p align="center">
-  <img src="assets/application/3dpoint/01.gif" width="23%" />
-  <img src="assets/application/3dpoint/02.gif" width="23%" />
-  <img src="assets/application/3dpoint/11.gif" width="23%" />
-  <img src="assets/application/3dpoint/12.gif" width="23%" />
-</p>
-
-✨ The first and third examples show point clouds with only a single given viewpoint. The second and fourth examples are augmented by our model, which synthesizes richer spatial observations from the sparse input view.
-
-### 🎥 Conditional-frames Based Video Generation:
-
-✨ Given the first frame, our editing model first performs spatial editing to produce the final frame of the video. Subsequently, the video generation model synthesizes a coherent transition sequence, while preserving scene realism and thematic consistency.
-
-## 📷 Camera Trajectory Transformation
-
-<p align="center">
-  <img src="assets/application/camera/input.png" width="31%" />
-  <img src="assets/application/camera/output.png" width="31%" />
-  <img src="assets/application/camera/video.gif" width="31%" />
-</p>
-
-## 🚶 Object Moving
-
-<p align="center">
-  <img src="assets/application/moving/input.png" width="31%" />
-  <img src="assets/application/moving/output.png" width="31%" />
-  <img src="assets/application/moving/video.gif" width="31%" />
-</p>
-
-## 🔄 Object Rotation
-
-<p align="center">
-  <img src="assets/application/rotation/input.png" width="31%" />
-  <img src="assets/application/rotation/output.png" width="31%" />
-  <img src="assets/application/rotation/video.gif" width="31%" />
-</p>
 
 ## ⚙️ Installation
 

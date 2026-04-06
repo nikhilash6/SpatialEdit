@@ -72,7 +72,7 @@ def video_to_gif(
     print(f"⚠️ Final saved (still large): {size_mb:.2f}MB")
 
 video_to_gif(
-    "/Users/xiaoyicheng/Desktop/eccv/assets/application/camera/video.mp4",
-    "assets/application/camera/video.gif",
+    "/Users/xiaoyicheng/Desktop/XYC_PPT/spatialedit_case/video.mp4",
+    "/Users/xiaoyicheng/Desktop/XYC_PPT/spatialedit_case/video.gif",
     target_size_mb=10
 )
