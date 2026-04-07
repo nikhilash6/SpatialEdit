@@ -224,9 +224,9 @@ Additionally, our resource construction pipeline and experiments have contribute
 
 ```bibtex
 @article{xiao2026spatialedit,
-    title = {SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing},
-    author = {Xiao, Yicheng and Zhang, Wenhu   and Song, Lin and Chen, Yukang and Li,     Wenbo and Jiang, Nan and Ren, Tianhe and    Lin, Haokun and Huang, Wei and Huang,   Haoyang and Li, Xiu and Duan, Nan and    Qi, Xiaojuan},
-    journal={arXiv preprint    arXiv:2604.04911},
-    year = {2026}
+  title   = {SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing},
+  author  = {Xiao, Yicheng and Zhang, Wenhu and Song, Lin and Chen, Yukang and Li, Wenbo and Jiang, Nan and Ren, Tianhe and Lin, Haokun and Huang, Wei and Huang, Haoyang and Li, Xiu and Duan, Nan and Qi, Xiaojuan},
+  journal = {arXiv preprint arXiv:2604.04911},
+  year    = {2026}
 }
 ```
