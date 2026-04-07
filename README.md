@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/EasonXiao-888/SpatialEdit/blob/main/pdf/SpatialEditing.pdf"><img src='https://img.shields.io/badge/SpatialEdit-Paper-red?logo=bookstack&logoColor=red'></a>
+  <a href="https://arxiv.org/pdf/2604.04911"><img src='https://img.shields.io/badge/SpatialEdit-Paper-red?logo=bookstack&logoColor=red'></a>
   <a href="https://huggingface.co/datasets/EasonXiao-888/SpatialEdit-500K"><img src="https://img.shields.io/badge/SpatialEdit500K-Data-yellow?logo=huggingface&logoColor=yellow"></a>
   <a href="https://huggingface.co/EasonXiao-888/SpatialEdit-16B"><img src="https://img.shields.io/badge/SpatialEdit16B-Model-blue?logo=huggingface&logoColor=yellow"></a>
   <a href="https://huggingface.co/datasets/EasonXiao-888/SpatialEdit-Bench"><img src="https://img.shields.io/badge/SpatialEditBench-Data-green?logo=huggingface&logoColor=yellow"></a>
@@ -218,3 +218,15 @@ Code in this repository builds upon several excellent open-source projects. We s
 We also extend our gratitude to [Yanbing Zhang](https://github.com/Monalissaa) for his valuable support throughout this project.
 
 Additionally, our resource construction pipeline and experiments have contributed to the development of the image editing model in [JoyAI-Image](https://github.com/jd-opensource/JoyAI-Image).
+
+
+## Citation
+
+```bibtex
+@article{xiao2026spatialedit,
+    title = {SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing},
+    author = {Xiao, Yicheng and Zhang, Wenhu   and Song, Lin and Chen, Yukang and Li,     Wenbo and Jiang, Nan and Ren, Tianhe and    Lin, Haokun and Huang, Wei and Huang,   Haoyang and Li, Xiu and Duan, Nan and    Qi, Xiaojuan},
+    journal={arXiv preprint    arXiv:2604.04911},
+    year = {2026}
+}
+```
