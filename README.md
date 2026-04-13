@@ -15,6 +15,8 @@
   <a href="https://huggingface.co/datasets/EasonXiao-888/SpatialEdit-Bench"><img src="https://img.shields.io/badge/SpatialEditBench-Data-green?logo=huggingface&logoColor=yellow"></a>
 </p>
 
+**⭐ If you find this project helpful or use any part of it in your work, we kindly encourage you to give it a star and [cite](#cite) our [paper](https://arxiv.org/pdf/2604.04911). Your support would be a great motivation for us. 📚**
+
 ## 🎬 Demo
 
 The following demo showcases our method on fine-grained spatial editing from spatially controlled endpoints.
@@ -220,6 +222,7 @@ We also extend our gratitude to [Yanbing Zhang](https://github.com/Monalissaa) f
 Additionally, our resource construction pipeline and experiments have contributed to the development of the image editing model in [JoyAI-Image](https://github.com/jd-opensource/JoyAI-Image).
 
 
+<a id="cite"></a>
 ## Citation
 
 ```bibtex
